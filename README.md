@@ -8,11 +8,11 @@
 # Запуск проекта
 
 - Скачать проект.
-- Сгенерировать пакетный менеджер: `$ npm init`.
+- `$ npm i`.
 - Запустить проект: `$ npm start`.
 
 Проект запускается на порту 3000.
 
 # Ссылка на домен
 
-https://bespoke-flan-d0f9e3.netlify.app
+https://incredible-sprite-25fd49.netlify.app/
